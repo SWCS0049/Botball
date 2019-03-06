@@ -25,7 +25,7 @@ void turn(int dist,int ssl,int trns);			//turn right
 void turnl(int dist,int ssr,int trns);        //turn left
 void follow_black_line(int dist,int speedL,int speedR);
 
-
+//Program Description added here //
 
 int main()
 {
