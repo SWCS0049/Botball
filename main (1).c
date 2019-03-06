@@ -27,7 +27,6 @@ void follow_black_line(int dist,int speedL,int speedR);
 
 
 
-
 int main()
 {
  //  wait_for_light(2);
